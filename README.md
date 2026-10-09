@@ -23,3 +23,14 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 
 #EXTINF:-1 tvg-id="2M.ma" tvg-name="2M Maroc" tvg-logo="https://2m.ma/favicon.ico" group-title="Maroc",2M Maroc
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id=“Assadissa.ma” tvg-name=“Assadissa” group-title=“Maroc”,Assadissa
+https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id=“Athaqafia.ma” tvg-name=“Athaqafia” group-title=“Maroc”,Athaqafia
+https://cdn-globecast.akamaized.net/live/eds/arrabiaa/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id=“Arrabiaa.ma” tvg-name=“Arrabiaa” group-title=“Maroc”,Arrabiaa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id=“Medi1TV.ma” tvg-name=“Medi1 TV” group-title=“Maroc”,Medi1 TV
+https://streaming.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
